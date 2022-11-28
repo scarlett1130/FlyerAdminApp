@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>766561466176-li9da3o4len3q0v8tgb8ebjh58mjssrt.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.766561466176-li9da3o4len3q0v8tgb8ebjh58mjssrt</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>766561466176-beckns8hefl1tje494frmr12vsdlhunf.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAknqAvwhQ0NyzlpBS6ydS-sm__peC3_VA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>766561466176</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.flyerschool.admin.app</string>
+	<key>PROJECT_ID</key>
+	<string>flyerschool-c7f30</string>
+	<key>STORAGE_BUCKET</key>
+	<string>flyerschool-c7f30.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:766561466176:ios:940991bddcc6412c866ca5</string>
+	<key>DATABASE_URL</key>
+	<string>https://flyerschool-c7f30.firebaseio.com</string>
+</dict>
+</plist>

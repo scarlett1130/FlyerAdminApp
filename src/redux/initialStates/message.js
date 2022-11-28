@@ -1,0 +1,25 @@
+export const initialState = {
+    items: [],
+    items_draft: [],
+    items_archived: [],
+    options: [],
+    resetPage: false,
+    newMessage: {
+        message_options: [],
+        units: [],
+        contacts: [],
+        title: '',
+        message: '',
+        files: [],
+        is_draft: false,
+        scheduled_timestamp: ''
+    },
+    unitId: null,
+    search_query: '',
+    createMessageFailed: false,
+    createMessageSuccess: false,
+    createMessageInProgress: false,
+    updateMessageFailed: false,
+    updateMessageSuccess: false,
+    updateMessageInProgress: false,
+};

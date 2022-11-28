@@ -1,0 +1,17 @@
+export default {
+  primary: "#62C3D0",
+  textPrimary: "#1D3F41",
+  black: "#FFFFFF57",
+  textInputBg: "#F4F4F4",
+  placeholderText: "#9D9D9D",
+  white: "#FFF",
+  label: "#1C3739",
+  gray: "#E0E0E0",
+  hyperlink: "#6BCBD7",
+  timestamp: "#A7A7A7",
+  badge: "#F5C719",
+  chatInputPlaceholder: "#B9B9B9",
+  chatBubbleBotBorder: "#DFDFDF",
+  attachmentPillBackground: "#E5E5E5",
+  inactiveTabs: "#CACACA",
+};

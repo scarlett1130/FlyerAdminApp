@@ -1,13 +1,13 @@
 {
   "expo": {
-    "name": "FlyerAdminApp",
-    "slug": "FlyerAdminApp",
+    "name": "Flyer Admin",
+    "slug": "FlyerAdmin",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/images/iconFlyerAdmin.png",
     "splash": {
-      "image": "./assets/splash.png",
-      "resizeMode": "contain",
+      "image": "./assets/images/imageSplashResize.png",
+      "resizeMode": "cover",
       "backgroundColor": "#ffffff"
     },
     "updates": {
@@ -17,16 +17,19 @@
       "**/*"
     ],
     "ios": {
-      "supportsTablet": true
+      "bundleIdentifier": "com.flyerschool.admin.app",
+      "buildNumber": "1.0.0",
+      "userInterfaceStyle": "light",
+      "googleServicesFile": "./GoogleService-Info.plist"
     },
     "android": {
-      "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
-        "backgroundColor": "#FFFFFF"
-      }
+      "package": "com.flyerschool.admin.app",
+      "versionCode": 1,
+      "userInterfaceStyle": "light",
+      "googleServicesFile": "./google-services.json"
     },
     "web": {
-      "favicon": "./assets/favicon.png"
+      "favicon": "./assets/images/iconFlyerAdmin.png"
     }
   }
 }

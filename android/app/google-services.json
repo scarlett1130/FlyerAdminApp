@@ -1,0 +1,91 @@
+{
+  "project_info": {
+    "project_number": "766561466176",
+    "firebase_url": "https://flyerschool-c7f30.firebaseio.com",
+    "project_id": "flyerschool-c7f30",
+    "storage_bucket": "flyerschool-c7f30.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:766561466176:android:637474856fe97a61866ca5",
+        "android_client_info": {
+          "package_name": "com.flyerschool.admin.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "766561466176-bd6r7v0h6dkm9asjeiv32h80702ce3mj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOpotjrWaIOKfRvaDQLQi-MHbqVQTXnYM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "766561466176-bd6r7v0h6dkm9asjeiv32h80702ce3mj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "766561466176-li9da3o4len3q0v8tgb8ebjh58mjssrt.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flyerschool.admin.app"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:766561466176:android:a38796d7d229abea",
+        "android_client_info": {
+          "package_name": "com.flyerschool.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "766561466176-beckns8hefl1tje494frmr12vsdlhunf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.flyerschool.app",
+            "certificate_hash": "0fa50a178de4d6012340ebff63b3b8eaa0789295"
+          }
+        },
+        {
+          "client_id": "766561466176-bd6r7v0h6dkm9asjeiv32h80702ce3mj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOpotjrWaIOKfRvaDQLQi-MHbqVQTXnYM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "766561466176-bd6r7v0h6dkm9asjeiv32h80702ce3mj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "766561466176-li9da3o4len3q0v8tgb8ebjh58mjssrt.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flyerschool.admin.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
